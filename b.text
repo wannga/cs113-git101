@@ -1,6 +1,6 @@
-#include <stdio.h> //not <studio.h>
+#include <stdio.h> //not studio
 
-int cubeByValue(int n);
+int number(int n);
 
 int main(){
 
