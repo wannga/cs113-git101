@@ -1,6 +1,6 @@
 #include <stdio.h> //not <studio.h>
 
-int cubeByValue(int n);
+int cubeValue(int n);
 
 int main(){
 
