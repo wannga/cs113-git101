@@ -1,4 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> //not studio
+
+int abc(int n);
+
 int main(){
 
     return 0;
